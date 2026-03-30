@@ -45,4 +45,4 @@ Luka Čečura, Lucija Kozić, Leona Križanac, Nora Milolović, Vita Pavlović, 
 **Mentor:** Akademik prof. dr. sc. Sven Lončarić
 
 ## Note
-** Data used for training was not uploaded to repository (will be downloaded automatically when running code).**
+**Data used for training was not uploaded to repository (will be downloaded automatically when running code).**
